@@ -13,6 +13,7 @@ public class HelloWord {
 	    * @Description:打招呼
 	    */
 		public  String sayHello(){
+			String message ="修改文件的例子！";
 			return "你好，我是经典的HelloWord！";
 		}
 		
